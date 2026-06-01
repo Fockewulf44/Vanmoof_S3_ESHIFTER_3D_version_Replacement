@@ -32,7 +32,7 @@ Parts you need
   </br>
   Material: **PLA or PETG**
   </br>
-  Infill: for Top and Bottom case **15%** or **20%**; for gears I would recommend at least **60%**;
+  Infill: for Top and Bottom case **50%** or higher; for gears I would recommend at least **60%**;
   Involute rack **70%** and if your PLA is soft then **100%** is recommended.
 
   <img src= "/Images/Bottom_Inside_v_1_2.jpg" width = "400" />
