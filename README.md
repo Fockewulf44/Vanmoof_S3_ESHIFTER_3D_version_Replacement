@@ -78,9 +78,9 @@ Shimano Revoshift needs to be cut for proper fit and not blocking a brake levera
 <img src= "Images/Dont_Tight_it_Much.png" width = "500" />
 </br></br></br>
 
-**Enjoying this project? Buy me a coffee**
+<!--**Enjoying this project? Buy me a coffee**-->
 </br>
 
-[![Donate](https://img.shields.io/badge/Donate-Paypal-green?style=for-the-badge)](https://www.paypal.com/donate/?business=R73RPVMAPAQUJ&no_recurring=0&currency_code=USD)
+<!--[![Donate](https://img.shields.io/badge/Donate-Paypal-green?style=for-the-badge)](https://www.paypal.com/donate/?business=R73RPVMAPAQUJ&no_recurring=0&currency_code=USD)-->
 
 
