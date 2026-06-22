@@ -3,7 +3,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Fockewulf44/Vanmoof_S3_ESHIFTER_3D_version_Replacement?style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/Fockewulf44/Vanmoof_S3_ESHIFTER_3D_version_Replacement?style=flat)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Fockewulf44/Vanmoof_S3_ESHIFTER_3D_version_Replacement/total)
-[![Donate](https://img.shields.io/badge/Donate-Paypal-green)](https://www.paypal.com/donate/?business=R73RPVMAPAQUJ&no_recurring=0&currency_code=USD)
+<!--[![Donate](https://img.shields.io/badge/Donate-Paypal-green)](https://www.paypal.com/donate/?business=R73RPVMAPAQUJ&no_recurring=0&currency_code=USD)-->
 
 
 Vanmoof S3 BUTIM Shifter!
